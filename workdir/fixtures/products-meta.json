@@ -1,0 +1,2065 @@
+[
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Apple",
+    "caption": {
+      "de": "<p>Apple iPhone 5S 16GB and 32GB \u2013 Silver</p>",
+      "en": "<p>Apple iPhone 5S 16GB and 32GB \u2013 Silver</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      77,
+      78
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>iPhone 5s comes in two storage sizes: 16GB and 32GB. The term \u201cGB\u201d stands for gigabytes. The more gigabytes you have, the more content you can store on your iPhone, such as apps, games, photos, HD videos, music, and movies. For example, if you have a large music or photo library or lots of apps, it\u2019s a good idea to consider an iPhone with a larger storage capacity. If you rarely download apps or you don\u2019t take many photos or videos, an iPhone with a smaller capacity may be better for you. When deciding which size to choose, be sure to consider how your storage needs may change over time. Check the storage capacity of your current iPhone and see how much storage you\u2019re using.</p>"
+      },
+      "en": {
+        "description": "<p>iPhone 5s comes in two storage sizes: 16GB and 32GB. The term \u201cGB\u201d stands for gigabytes. The more gigabytes you have, the more content you can store on your iPhone, such as apps, games, photos, HD videos, music, and movies. For example, if you have a large music or photo library or lots of apps, it\u2019s a good idea to consider an iPhone with a larger storage capacity. If you rarely download apps or you don\u2019t take many photos or videos, an iPhone with a smaller capacity may be better for you. When deciding which size to choose, be sure to consider how your storage needs may change over time. Check the storage capacity of your current iPhone and see how much storage you\u2019re using.</p>"
+      }
+    },
+    "operating_system": "iOS 7",
+    "variants": [
+      {
+        "product_code": "12016",
+        "unit_price": "239.000",
+        "quantity": 3,
+        "storage": 16
+      },
+      {
+        "product_code": "12032",
+        "unit_price": "299.000",
+        "quantity": 1,
+        "storage": 32
+      }
+    ],
+    "created_at": "2015-12-03T17:48:14.508000Z",
+    "active": true,
+    "product_name": "Apple iPhone 5",
+    "slug": "apple-iphone-5",
+    "order": 1,
+    "battery_type": 2,
+    "battery_capacity": 1901,
+    "ram_storage": 2048,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "58.6",
+    "height": "123.8",
+    "weight": "112.0",
+    "screen_size": "4.00"
+  },
+  {
+    "product_model": "commodity",
+    "manufacturer": "Atomic Floyd",
+    "caption": {
+      "de": "<p>Atomic Floyd Super Darts 970-80</p>",
+      "en": "<p>Atomic Floyd Super Darts 970-80</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/earphones/"
+    ],
+    "images": [
+      108
+    ],
+    "created_at": "2016-06-19T10:15:41.604000Z",
+    "active": true,
+    "product_name": "Super Darts",
+    "slug": "super-darts",
+    "order": 2,
+    "unit_price": "399.000",
+    "quantity": 4,
+    "product_code": "af-sd-3655"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "LG",
+    "caption": {
+      "de": "<p>LG Google Nexus 4 8GB and\u00a016GB E960 \u2013 Black</p>",
+      "en": "<p>LG Google Nexus 4 8GB and\u00a016GB E960 \u2013 Black</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Nexus 4 is the new smartphone from Google. With cutting edge hardware, the latest version of Android, and access to your favorite entertainment on Google Play -- Nexus 4 puts the best of Google in the palm of your hand. Available in 8 GB or 16 GB.</p>"
+      },
+      "de": {
+        "description": "<p>Nexus 4 is the new smartphone from Google. With cutting edge hardware, the latest version of Android, and access to your favorite entertainment on Google Play -- Nexus 4 puts the best of Google in the palm of your hand. Available in 8 GB or 16 GB.</p>"
+      }
+    },
+    "operating_system": "Android 4.1",
+    "variants": [
+      {
+        "product_code": "1102",
+        "unit_price": "399.000",
+        "quantity": 5,
+        "storage": 8
+      },
+      {
+        "product_code": "1103",
+        "unit_price": "469.000",
+        "quantity": 3,
+        "storage": 16
+      }
+    ],
+    "created_at": "2015-12-02T22:09:43.400000Z",
+    "active": true,
+    "product_name": "Nexus 4",
+    "slug": "nexus-4",
+    "order": 3,
+    "battery_type": 1,
+    "battery_capacity": 2100,
+    "ram_storage": 2048,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "68.7",
+    "height": "133.9",
+    "weight": "139.1",
+    "screen_size": "4.70"
+  },
+  {
+    "product_model": "commodity",
+    "manufacturer": "Sennheiser",
+    "caption": {
+      "de": "<p>Sennheiser HD630VB Closed Back</p>",
+      "en": "<p>Sennheiser HD630VB Closed Back</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/earphones/"
+    ],
+    "images": [
+      110
+    ],
+    "created_at": "2016-06-19T10:28:52.713000Z",
+    "active": true,
+    "product_name": "Sennheiser HD630VB",
+    "slug": "sennheiser-hd630vb",
+    "order": 4,
+    "unit_price": "509.000",
+    "quantity": 6,
+    "product_code": "sh-hd630vb"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Samsung",
+    "caption": {
+      "de": "<p>Samsung Galaxy S6 Active 32GB\u00a0\u2013\u00a0Camo White</p>",
+      "en": "<p>Samsung Galaxy S6 Active 32GB\u00a0\u2013\u00a0Camo White</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>With its ruggedized design, you can confidently take the Galaxy S6 active on the road, to a jobsite or anywhere else work takes you. With Samsung KNOX\u2122, you can protect all your files from viruses and hackers with built-in, defense-grade security. And with an ultra-fast processor and multi-tasking technology, your teams can get a lot more done.</p>"
+      },
+      "en": {
+        "description": "<p>With its ruggedized design, you can confidently take the Galaxy S6 active on the road, to a jobsite or anywhere else work takes you. With Samsung KNOX\u2122, you can protect all your files from viruses and hackers with built-in, defense-grade security. And with an ultra-fast processor and multi-tasking technology, your teams can get a lot more done.</p>"
+      }
+    },
+    "operating_system": "Android 5.0",
+    "variants": [
+      {
+        "product_code": "1121",
+        "unit_price": "589.000",
+        "quantity": 9,
+        "storage": 32
+      }
+    ],
+    "created_at": "2015-12-03T16:03:53.228000Z",
+    "active": true,
+    "product_name": "Galaxy S6 active",
+    "slug": "galaxy-s6-active",
+    "order": 5,
+    "battery_type": 2,
+    "battery_capacity": 3500,
+    "ram_storage": 2048,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "73.4",
+    "height": "146.8",
+    "weight": "170.0",
+    "screen_size": "5.10"
+  },
+  {
+    "product_model": "commodity",
+    "manufacturer": "Plantronics",
+    "caption": {
+      "de": "<p>Plantronics Backbeat FIT Wireless</p>",
+      "en": "<p>Plantronics Backbeat FIT Wireless</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/earphones/"
+    ],
+    "images": [
+      109
+    ],
+    "created_at": "2016-06-19T10:32:15.249000Z",
+    "active": true,
+    "product_name": "Backbeat FIT",
+    "slug": "backbeat-fit",
+    "order": 6,
+    "unit_price": "129.990",
+    "quantity": 22,
+    "product_code": "pl-bf-9682"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Sony",
+    "caption": {
+      "de": "<p>Sony Xperia TL 16GB \u2013 Dark Grey</p>",
+      "en": "<p>Sony Xperia TL 16GB \u2013 Dark Grey</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      64
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Your greatest moments, from life to phone to big screen, in beautifully vivid detail. The Xperia\u2122 TL\u2019s HD Reality Display lets you see everything sharper, faster, better. See your photos like never before with the \u201cAlbum\u201d app. Videos and pictures are crisp in every detail with no jagged edges or blurry faces. Your memories have never been more beautiful.</p>"
+      },
+      "de": {
+        "description": "<p>Your greatest moments, from life to phone to big screen, in beautifully vivid detail. The Xperia\u2122 TL\u2019s HD Reality Display lets you see everything sharper, faster, better. See your photos like never before with the \u201cAlbum\u201d app. Videos and pictures are crisp in every detail with no jagged edges or blurry faces. Your memories have never been more beautiful.</p>"
+      }
+    },
+    "operating_system": "Android 2.3",
+    "variants": [
+      {
+        "product_code": "1131",
+        "unit_price": "125.000",
+        "quantity": 3,
+        "storage": 10
+      }
+    ],
+    "created_at": "2015-12-03T16:17:44.459000Z",
+    "active": true,
+    "product_name": "Sony Xperia TL",
+    "slug": "sony-xperia-tl",
+    "order": 7,
+    "battery_type": 1,
+    "battery_capacity": 1450,
+    "ram_storage": 1000,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "67.3",
+    "height": "129.4",
+    "weight": "139.0",
+    "screen_size": "4.60"
+  },
+  {
+    "product_model": "commodity",
+    "manufacturer": "Tailory",
+    "caption": {
+      "de": "<p>Luxury home near Park Lake in the neighborhoods of Springfield.</p>",
+      "en": "<p>Luxury home near Park Lake in the neighborhoods of Springfield.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/earphones/"
+    ],
+    "images": [
+      189
+    ],
+    "created_at": "2019-02-18T20:40:32.809582Z",
+    "active": true,
+    "product_name": {
+      "de": "Splendid Villa",
+      "en": "Splendid Villa"
+    },
+    "slug": {
+      "de": "splendid-villa",
+      "en": "splendid-villa"
+    },
+    "order": 7,
+    "sample_image": 189,
+    "unit_price": "777777.000",
+    "quantity": 1,
+    "product_code": "parklake-springfield"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Motorola",
+    "caption": {
+      "de": "<p>Motorola Atrix 4G MB861 \u2013\u00a0Black</p>",
+      "en": "<p>Motorola Atrix 4G MB861 \u2013\u00a0Black</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary webtop application. With webtop and a compatible Motorola docking station, sold separately, you can surf the Internet with a full Firefox browser, create and edit docs, or access multimedia on a large screen almost anywhere.</p>"
+      },
+      "en": {
+        "description": "<p>MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary webtop application. With webtop and a compatible Motorola docking station, sold separately, you can surf the Internet with a full Firefox browser, create and edit docs, or access multimedia on a large screen almost anywhere.</p>"
+      }
+    },
+    "operating_system": "Android 2.3",
+    "variants": [
+      {
+        "product_code": "1204",
+        "unit_price": "199.000",
+        "quantity": 8,
+        "storage": 0
+      }
+    ],
+    "created_at": "2015-12-04T11:00:29.894000Z",
+    "active": true,
+    "product_name": "Motorola Atrix",
+    "slug": "motorola-atrix",
+    "order": 8,
+    "battery_type": 2,
+    "battery_capacity": 1930,
+    "ram_storage": 1024,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "63.5",
+    "height": "117.7",
+    "weight": "135.0",
+    "screen_size": "4.00"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Kyocera",
+    "caption": {
+      "de": "<p>Kyocera Hydro Edge \u2013 Black</p>",
+      "en": "<p>Kyocera Hydro Edge \u2013 Black</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      50,
+      51
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>The Kyocera Hydro Edge is the second-generation of Kyocera's popular Hydro Series of phones. It is certified IP57 waterproof and has Kyocera's proprietary Smart Sonic Receiver technology, all at an affordable price-point for pre- or post-paid customers on the Sprint and Boost Mobile networks.</p>"
+      },
+      "en": {
+        "description": "<p>The Kyocera Hydro Edge is the second-generation of Kyocera's popular Hydro Series of phones. It is certified IP57 waterproof and has Kyocera's proprietary Smart Sonic Receiver technology, all at an affordable price-point for pre- or post-paid customers on the Sprint and Boost Mobile networks.</p>"
+      }
+    },
+    "operating_system": "Android 4.1",
+    "variants": [
+      {
+        "product_code": "1101",
+        "unit_price": "139.000",
+        "quantity": 3,
+        "storage": 0
+      }
+    ],
+    "created_at": "2015-12-02T21:04:26.252000Z",
+    "active": true,
+    "product_name": "Kyocera Hydro Edge",
+    "slug": "kyocera-hydro-edge",
+    "order": 9,
+    "battery_type": 2,
+    "battery_capacity": 1600,
+    "ram_storage": 1024,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "63.5",
+    "height": "124.4",
+    "weight": "127.5",
+    "screen_size": "4.00"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "HTC",
+    "caption": {
+      "de": "<p>HTC EVO Design SL892 \u2013 Black</p>",
+      "en": "<p>HTC EVO Design SL892 \u2013 Black</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      67,
+      68,
+      153
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>The HTC EVO Design 4G\u2122 stands out from the crowd, inside and out\u2014and because it's a world phone, it's always ready to jet.</p>\n\n<p>A phone that thinks like you<br>\nHTC Sense\u2122 lets you do more in fewer steps with a logical and friendly experience that brings everything you care about right to the surface.</p>\n\n<p>Leave your bulky point and shoot at home<br>\nThe HTC EVO Design 4G has a 5 MP camera with HD video recording\u2014and the F2.2 lens gets great shots, even in low light. A 1.3 MP front-facing camera can help snap perfect profile pics.</p>\n\n<p>Be entertained\u2014 anytime, anywhere<br>\nHTC Watch\u2122 lets you watch shows and movies on the go. The HTC EVO Design 4G is an entertainment machine, for everything from books to games to music.</p>\n\n<p>Put a spring in your step<br>\nThe HTC EVO Design 4G is fast. Its snappy 1.2 GHz processor combined with Sprint's 4G speeds will help you make things happen.</p>"
+      },
+      "en": {
+        "description": "<p>The HTC EVO Design 4G\u2122 stands out from the crowd, inside and out\u2014and because it's a world phone, it's always ready to jet.</p>\n\n<p>A phone that thinks like you<br>\nHTC Sense\u2122 lets you do more in fewer steps with a logical and friendly experience that brings everything you care about right to the surface.</p>\n\n<p>Leave your bulky point and shoot at home<br>\nThe HTC EVO Design 4G has a 5 MP camera with HD video recording\u2014and the F2.2 lens gets great shots, even in low light. A 1.3 MP front-facing camera can help snap perfect profile pics.</p>\n\n<p>Be entertained\u2014 anytime, anywhere<br>\nHTC Watch\u2122 lets you watch shows and movies on the go. The HTC EVO Design 4G is an entertainment machine, for everything from books to games to music.</p>\n\n<p>Put a spring in your step<br>\nThe HTC EVO Design 4G is fast. Its snappy 1.2 GHz processor combined with Sprint's 4G speeds will help you make things happen.</p>"
+      }
+    },
+    "operating_system": "Android 2.3",
+    "variants": [
+      {
+        "product_code": "1141",
+        "unit_price": "129.000",
+        "quantity": 3,
+        "storage": 0
+      }
+    ],
+    "created_at": "2015-12-03T16:21:28.116000Z",
+    "active": true,
+    "product_name": "HTC Evo design 4G",
+    "slug": "htc-evo-design-4g",
+    "order": 10,
+    "battery_type": 2,
+    "battery_capacity": 1520,
+    "ram_storage": 2048,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "62.0",
+    "height": "122.0",
+    "weight": "130.0",
+    "screen_size": "4.00"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "HTC",
+    "caption": {
+      "de": "<p>HTC ThunderBolt 4G Mobile Phone</p>",
+      "en": "<p>HTC ThunderBolt 4G Mobile Phone</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      154,
+      155,
+      156
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>The first phone with integrated video Skype mobile\u2122. Video Skype to any device, from anywhere - no Wi-Fi required.</p>\n\n<p>8 megapixels. Ultra-mega-amazing. 8 megapixel flash camera and the power of 4G allow you to create and share like never before.</p>\n\n<p>4G + HD = infinite possibilities. Record. Share. View. HD video and a hi-res 4.3\" screen means unlimited entertainment.\u00a0</p>\n\n<p>G is fast. Its snappy 1.2 GHz processor combined with Sprint's 4G speeds will help you make things happen.</p>"
+      },
+      "en": {
+        "description": "<p>The first phone with integrated video Skype mobile\u2122. Video Skype to any device, from anywhere - no Wi-Fi required.</p>\n\n<p>8 megapixels. Ultra-mega-amazing. 8 megapixel flash camera and the power of 4G allow you to create and share like never before.</p>\n\n<p>4G + HD = infinite possibilities. Record. Share. View. HD video and a hi-res 4.3\" screen means unlimited entertainment.\u00a0</p>\n\n<p>G is fast. Its snappy 1.2 GHz processor combined with Sprint's 4G speeds will help you make things happen.</p>"
+      }
+    },
+    "operating_system": "Android 2.3",
+    "variants": [
+      {
+        "product_code": "htc-tb-4g",
+        "unit_price": "199.000",
+        "quantity": 5,
+        "storage": 8
+      }
+    ],
+    "created_at": "2016-09-21T10:53:00.037000Z",
+    "active": true,
+    "product_name": "HTC Thunderbolt",
+    "slug": "htc-thunderbolt",
+    "order": 11,
+    "battery_type": 2,
+    "battery_capacity": 1400,
+    "ram_storage": 768,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": false,
+    "width": "62.0",
+    "height": "122.0",
+    "weight": "130.0",
+    "screen_size": "4.00"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "LG",
+    "caption": {
+      "de": "<p>The LG connect 4G an advanced 4G smartphone</p>",
+      "en": "<p>The LG connect 4G an advanced 4G smartphone</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      157,
+      158
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>LG connect 4G is one of the most advanced 4G smartphones with the latest features : 1.2GHz dual-core processor, 1GB RAM, 4 inch bright and clear NOVA display, 720p HD recording using 5 mega-pixel camera with flash. Compact size even with 4 inch display will make you feel comfortable whenever you use it.</p>"
+      },
+      "en": {
+        "description": "<p>LG connect 4G is one of the most advanced 4G smartphones with the latest features : 1.2GHz dual-core processor, 1GB RAM, 4 inch bright and clear NOVA display, 720p HD recording using 5 mega-pixel camera with flash. Compact size even with 4 inch display will make you feel comfortable whenever you use it.</p>"
+      }
+    },
+    "operating_system": "Android 2.3",
+    "variants": [
+      {
+        "product_code": "LG-G4-H815",
+        "unit_price": "309.000",
+        "quantity": 4,
+        "storage": 4
+      }
+    ],
+    "created_at": "2016-09-21T12:59:09.249000Z",
+    "active": true,
+    "product_name": "LG Connect 4G",
+    "slug": "lg-connect-4g",
+    "order": 12,
+    "battery_type": 1,
+    "battery_capacity": 1540,
+    "ram_storage": 1024,
+    "wifi_connectivity": 1,
+    "bluetooth": 2,
+    "gps": true,
+    "width": "62.2",
+    "height": "116.6",
+    "weight": "138.5",
+    "screen_size": "4.00"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Motorola",
+    "caption": {
+      "de": "<p>DROID 3 by MOTOROLA</p>",
+      "en": "<p>DROID 3 by MOTOROLA</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      159,
+      160,
+      161,
+      162
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>You're going places, and DROID 3 by Motorola can take you there. With incredible dual-core speed and brilliant qHD display, you're making a big Android smartphone statement. DROID 3 offers more power and greater responsiveness, and the efficient handling of a five-row keyboard. It's the thinnest full QWERTY smartphone. Ever.</p>"
+      },
+      "en": {
+        "description": "<p>You're going places, and DROID 3 by Motorola can take you there. With incredible dual-core speed and brilliant qHD display, you're making a big Android smartphone statement. DROID 3 offers more power and greater responsiveness, and the efficient handling of a five-row keyboard. It's the thinnest full QWERTY smartphone. Ever.</p>"
+      }
+    },
+    "operating_system": "Android 2.3",
+    "variants": [
+      {
+        "product_code": "MOTXT862",
+        "unit_price": "289.000",
+        "quantity": 7,
+        "storage": 16
+      }
+    ],
+    "created_at": "2016-09-21T13:34:50.005000Z",
+    "active": true,
+    "product_name": "DROID 3",
+    "slug": "droid-3",
+    "order": 13,
+    "battery_type": 2,
+    "battery_capacity": 1540,
+    "ram_storage": 2048,
+    "wifi_connectivity": 1,
+    "bluetooth": 2,
+    "gps": false,
+    "width": "123.3",
+    "height": "64.1",
+    "weight": "184.0",
+    "screen_size": "4.00"
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Samsung",
+    "caption": {
+      "de": "<p>Samsung Galaxy S III \u2013 Black</p>",
+      "en": "<p>Samsung Galaxy S III \u2013 Black</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      163
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>The Galaxy S(r) III is so advacned but so intuitive, it's simple. With technology that makes it easier than ever to share you world-with your devices with your friends or with groups of people.</p>"
+      },
+      "en": {
+        "description": "<p>The Galaxy S(r) III is so advacned but so intuitive, it's simple. With technology that makes it easier than ever to share you world-with your devices with your friends or with groups of people.</p>"
+      }
+    },
+    "operating_system": "Android 4.0",
+    "variants": [
+      {
+        "product_code": "sam-gs3-16",
+        "unit_price": "169.000",
+        "quantity": 13,
+        "storage": 16
+      },
+      {
+        "product_code": "sam-gs3-32",
+        "unit_price": "199.000",
+        "quantity": 2,
+        "storage": 32
+      }
+    ],
+    "created_at": "2016-09-21T14:13:12.222000Z",
+    "active": true,
+    "product_name": "Samsung Galaxy S III",
+    "slug": "samsung-galaxy-s3",
+    "order": 14,
+    "battery_type": 2,
+    "battery_capacity": 2100,
+    "ram_storage": 2048,
+    "wifi_connectivity": 1,
+    "bluetooth": 1,
+    "gps": true,
+    "width": "70.6",
+    "height": "136.6",
+    "weight": "133.0",
+    "screen_size": "4.80"
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Dependability and solid performance you can count on.</p>",
+      "de": "<p>Dependability and solid performance you can count on.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      12
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HDvideo (720p).\u00a0</p>\n"
+      },
+      "de": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HDvideo (720p).\u00a0</p>"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.623000Z",
+    "active": true,
+    "product_name": "SDXC Card 64GB",
+    "slug": "sdxc-card-64gb",
+    "order": 15,
+    "unit_price": "13.990",
+    "quantity": 12,
+    "card_type": "SDXC",
+    "speed": "4",
+    "product_code": "1004",
+    "storage": 64
+  },
+  {
+    "product_model": "smartphonemodel",
+    "manufacturer": "Kyocera",
+    "caption": {
+      "de": "<p>Kyocera Milano \u2013 With Keyboard</p>",
+      "en": "<p>Kyocera Milano \u2013 With Keyboard</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/smart-phones/",
+      "/en/catalog/"
+    ],
+    "images": [
+      164,
+      165,
+      166
+    ],
+    "multilingual": {
+      "de": {
+        "description": "<p>Ideal for heavy texters, Kyocera Milano is an entry-level \u201cQWERTY + touchscreen\u201d smartphone running Android 2.3 (Gingerbread) with Swype and Kyocera\u2019s Eco-Mode battery management software. With a distinctive rounded shape and soft-touch finish, Kyocera Milano is easy to hold and slide into a pocket. The phone\u2019s slide-out QWERTY keyboard enables accurate tactile input for text messages and emails. Its touchscreen is augmented by Swype, which provides a faster and easier way to enter text. Kyocera Milano\u2019s \u2018Eco Mode\u2019 is a proprietary preloaded power-management application from Kyocera that helps users manage battery life on their devices. User can pre-set a point at which their phones will go into low-power-consumption mode by automatically adjusting various phone functions like screen timeout and brightness.</p>"
+      },
+      "en": {
+        "description": "<p>Ideal for heavy texters, Kyocera Milano is an entry-level \u201cQWERTY + touchscreen\u201d smartphone running Android 2.3 (Gingerbread) with Swype and Kyocera\u2019s Eco-Mode battery management software. With a distinctive rounded shape and soft-touch finish, Kyocera Milano is easy to hold and slide into a pocket. The phone\u2019s slide-out QWERTY keyboard enables accurate tactile input for text messages and emails. Its touchscreen is augmented by Swype, which provides a faster and easier way to enter text. Kyocera Milano\u2019s \u2018Eco Mode\u2019 is a proprietary preloaded power-management application from Kyocera that helps users manage battery life on their devices. User can pre-set a point at which their phones will go into low-power-consumption mode by automatically adjusting various phone functions like screen timeout and brightness.</p>"
+      }
+    },
+    "operating_system": "Android 2.3",
+    "variants": [
+      {
+        "product_code": "KYO5121REV2",
+        "unit_price": "222.000",
+        "quantity": 3,
+        "storage": 0
+      }
+    ],
+    "created_at": "2016-09-21T14:16:58.634000Z",
+    "active": true,
+    "product_name": "Kyocera Milano",
+    "slug": "kyocera-milano",
+    "order": 16,
+    "battery_type": 2,
+    "battery_capacity": 1490,
+    "ram_storage": 512,
+    "wifi_connectivity": 1,
+    "bluetooth": 3,
+    "gps": true,
+    "width": "61.0",
+    "height": "105.0",
+    "weight": "158.0",
+    "screen_size": "3.00"
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Dependability and solid performance you can count on.</p>",
+      "de": "<p>Dependability and solid performance you can count on.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      8
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HDvideo (720p).\u00a0</p>"
+      },
+      "de": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HDvideo (720p).\u00a0</p>"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.618000Z",
+    "active": true,
+    "product_name": "SDHC Card 4GB",
+    "slug": "sdhc-card-4gb",
+    "order": 17,
+    "unit_price": "3.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "4",
+    "product_code": "1041",
+    "storage": 4
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Dependability and solid performance you can count on.</p>",
+      "de": "<p>Dependability and solid performance you can count on.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      9
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HDvideo (720p).\u00a0</p>\n"
+      },
+      "de": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HD\u00a0video (720p).\u00a0</p>"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.620000Z",
+    "active": true,
+    "product_name": "SDHC Card 8GB",
+    "slug": "sdhc-card-8gb",
+    "order": 18,
+    "unit_price": "5.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "4",
+    "product_code": "1001",
+    "storage": 8
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Dependability and solid performance you can count on.</p>",
+      "de": "<p>Dependability and solid performance you can count on.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      10
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HDvideo (720p).\u00a0</p>\n"
+      },
+      "de": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HD\u00a0video (720p).\u00a0</p>"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.621000Z",
+    "active": true,
+    "product_name": "SDHC Card 16GB",
+    "slug": "sdhc-card-16gb",
+    "order": 19,
+    "unit_price": "7.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "4",
+    "product_code": "1002",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Dependability and solid performance you can count on.</p>",
+      "de": "<p>Dependability and solid performance you can count on.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      11
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HDvideo (720p).\u00a0</p>"
+      },
+      "de": {
+        "description": "<p>SanDisk SDHC and SDXC memory cards are great choices to capture and store your favorite pictures and videos on standard point and shoot cameras. SanDisk SDHC and SDXC memory cards are compatible with cameras, laptops, tablets, and other devices that support the SDHC and SDXC formats, and are capable of recording hours of HD&nbsp;video (720p).&nbsp;</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.622000Z",
+    "active": true,
+    "product_name": "SDHC Card 32GB",
+    "slug": "sdhc-card-32gb",
+    "order": 20,
+    "unit_price": "9.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "4",
+    "product_code": "1003",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Up to 80/60MB/s read/write speed.</p>",
+      "de": "<p>Up to 80/60MB/s read/write speed.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      14
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Extreme sports require extreme readiness. SanDisk Extreme PLUS microSDHC and microSDXC UHS-I cards deliver the speed, capacity, durability, and quality you need to make sure your adventure is captured in stunning detail, even if you blink on the way down. Now rated UHS Speed Class 3 (U3)2, this fast, high-performing card teams up with your action camera to let you capture and share unforgettable extreme sports video. Available in capacities from 16GB to 64GB.</p>\n"
+      },
+      "de": {
+        "description": "<p>Extreme sports require extreme readiness. SanDisk Extreme PLUS microSDHC and microSDXC UHS-I cards deliver the speed, capacity, durability, and quality you need to make sure your adventure is captured in stunning detail, even if you blink on the way down. Now rated UHS Speed Class 3 (U3)2, this fast, high-performing card teams up with your action camera to let you capture and share unforgettable extreme sports video. Available in capacities from 16GB to 64GB.</p>"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.626000Z",
+    "active": true,
+    "product_name": "EXTREME PLUS microSDHC 32GB",
+    "slug": "extreme-plus-micro-sdhc-32gb",
+    "order": 21,
+    "unit_price": "11.490",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "80",
+    "product_code": "1006",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Up to 80/60MB/s read/write speed.</p>",
+      "de": "<p>Up to 80/60MB/s read/write speed.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      15
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Extreme sports require extreme readiness. SanDisk Extreme PLUS microSDHC and microSDXC UHS-I cards deliver the speed, capacity, durability, and quality you need to make sure your adventure is captured in stunning detail, even if you blink on the way down. Now rated UHS Speed Class 3 (U3)2, this fast, high-performing card teams up with your action camera to let you capture and share unforgettable extreme sports video. Available in capacities from 16GB to 64GB.</p>"
+      },
+      "de": {
+        "description": "<p>Extreme sports require extreme readiness. SanDisk Extreme PLUS microSDHC and microSDXC UHS-I cards deliver the speed, capacity, durability, and quality you need to make sure your adventure is captured in stunning detail, even if you blink on the way down. Now rated UHS Speed Class 3 (U3)2, this fast, high-performing card teams up with your action camera to let you capture and share unforgettable extreme sports video. Available in capacities from 16GB to 64GB.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.627000Z",
+    "active": true,
+    "product_name": "EXTREME PLUS microSDXC 64GB",
+    "slug": "extreme-plus-micro-sdxc-64gb",
+    "order": 22,
+    "unit_price": "14.490",
+    "quantity": 12,
+    "card_type": "micro SDXC",
+    "speed": "80",
+    "product_code": "1007",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>Up to 80/60MB/s read/write speed.</p>",
+      "de": "<p>Up to 80/60MB/s read/write speed.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      16
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I memory cards offer enough speed, capacity, and durability to meet the demands of advanced photographers and passionate shutterbugs alike. Ideal for use with advanced cameras and HD camcorders, this card offers data speeds up to ten times faster than an ordinary memory card1 ensuring you'll never miss the moment.</p>"
+      },
+      "de": {
+        "description": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I memory cards offer enough speed, capacity, and durability to meet the demands of advanced photographers and passionate shutterbugs alike. Ideal for use with advanced cameras and HD camcorders, this card offers data speeds up to ten times faster than an ordinary memory card1 ensuring you'll never miss the moment.</p>"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.628000Z",
+    "active": true,
+    "product_name": "EXTREME PLUS SDHC 16GB",
+    "slug": "extreme-plus-sdhc-16gb",
+    "order": 23,
+    "unit_price": "8.490",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "80",
+    "product_code": "1008",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I card.</p>",
+      "de": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      17
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I memory cards offer enough speed, capacity, and durability to meet the demands of advanced photographers and passionate shutterbugs alike. Ideal for use with advanced cameras and HD camcorders, this card offers data speeds up to ten times faster than an ordinary memory card1 ensuring you'll never miss the moment.</p>"
+      },
+      "de": {
+        "description": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I memory cards offer enough speed, capacity, and durability to meet the demands of advanced photographers and passionate shutterbugs alike. Ideal for use with advanced cameras and HD camcorders, this card offers data speeds up to ten times faster than an ordinary memory card1 ensuring you'll never miss the moment.</p>"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.630000Z",
+    "active": true,
+    "product_name": "EXTREME PLUS SDHC 32GB",
+    "slug": "extreme-plus-sdhc-32gb",
+    "order": 24,
+    "unit_price": "10.490",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "80",
+    "product_code": "1009",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I card.</p>",
+      "de": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      18
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I memory cards offer enough speed, capacity, and durability to meet the demands of advanced photographers and passionate shutterbugs alike. Ideal for use with advanced cameras and HD camcorders, this card offers data speeds up to ten times faster than an ordinary memory card1 ensuring you'll never miss the moment.</p>"
+      },
+      "de": {
+        "description": "<p>SanDisk Extreme PLUS SDHC and SDXC UHS-I memory cards offer enough speed, capacity, and durability to meet the demands of advanced photographers and passionate shutterbugs alike. Ideal for use with advanced cameras and HD camcorders, this card offers data speeds up to ten times faster than an ordinary memory card1 ensuring you&#39;ll never miss the moment.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.631000Z",
+    "active": true,
+    "product_name": "EXTREME PLUS SDXC 64GB",
+    "slug": "extreme-plus-sdhc-64gb",
+    "order": 25,
+    "unit_price": "13.790",
+    "quantity": 12,
+    "card_type": "SDXC",
+    "speed": "80",
+    "product_code": "1010",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme Pro\u00ae microSDHC\u2122 UHS-3.</p>",
+      "de": "<p>SanDisk Extreme Pro\u00ae microSDHC\u2122 UHS-3.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      19
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk Extreme PRO microSDHC/microSDXC UHS-I memory cards now come with up to 64GB1 of storage for uncompromising smartphone, tablet and camera performance. Capture 4K Ultra HD and Full HD videos2 and enjoy transfer speeds of up to 95MB/s3 so you can shoot like a pro and still experience world-class responsiveness from your phone. Class 10 and UHS Speed Class 3 (U3)4 ratings mean your videos can meet today's highest resolution standards.</p>"
+      },
+      "de": {
+        "description": "<p>SanDisk Extreme PRO microSDHC/microSDXC UHS-I memory cards now come with up to 64GB1 of storage for uncompromising smartphone, tablet and camera performance. Capture 4K Ultra HD and Full HD videos2 and enjoy transfer speeds of up to 95MB/s3 so you can shoot like a pro and still experience world-class responsiveness from your phone. Class 10 and UHS Speed Class 3 (U3)4 ratings mean your videos can meet today's highest resolution standards.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.632000Z",
+    "active": true,
+    "product_name": "Extreme PRO microSDHC 32GB",
+    "slug": "extreme-pro-micro-sdhc-32gb",
+    "order": 26,
+    "unit_price": "12.990",
+    "quantity": 12,
+    "card_type": "micro SDXC",
+    "speed": "95",
+    "product_code": "1011",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme microSDHC\u2122 | microSDXC\u2122 UHS-I.</p>",
+      "de": "<p>SanDisk Extreme microSDHC\u2122 | microSDXC\u2122 UHS-I.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      13
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Extreme sports require extreme readiness. SanDisk Extreme PLUS microSDHC and microSDXC UHS-I cards deliver the speed, capacity, durability, and quality you need to make sure your adventure is captured in stunning detail, even if you blink on the way down. Now rated UHS Speed Class 3 (U3)2, this fast, high-performing card teams up with your action camera to let you capture and share unforgettable extreme sports video. Available in capacities from 16GB to 64GB.</p>"
+      },
+      "de": {
+        "description": "<p>Extreme sports require extreme readiness. SanDisk Extreme PLUS microSDHC and microSDXC UHS-I cards deliver the speed, capacity, durability, and quality you need to make sure your adventure is captured in stunning detail, even if you blink on the way down. Now rated UHS Speed Class 3 (U3)2, this fast, high-performing card teams up with your action camera to let you capture and share unforgettable extreme sports video. Available in capacities from 16GB to 64GB.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.625000Z",
+    "active": true,
+    "product_name": "EXTREME PLUS microSDHC 16GB",
+    "slug": "extreme-plus-micro-sdhc-16gb",
+    "order": 27,
+    "unit_price": "8.490",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "80",
+    "product_code": "1005",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme Pro\u00ae microSDHC\u2122 UHS-3.</p>",
+      "de": "<p>SanDisk Extreme Pro\u00ae microSDHC\u2122 UHS-3.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      21
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>SanDisk Extreme PRO microSDHC/microSDXC UHS-I memory cards now come with up to 64GB1 of storage for uncompromising smartphone, tablet and camera performance. Capture 4K Ultra HD and Full HD videos2 and enjoy transfer speeds of up to 95MB/s3 so you can shoot like a pro and still experience world-class responsiveness from your phone. Class 10 and UHS Speed Class 3 (U3)4 ratings mean your videos can meet today's highest resolution standards.</p>"
+      },
+      "de": {
+        "description": "<p>SanDisk Extreme PRO microSDHC/microSDXC UHS-I memory cards now come with up to 64GB1 of storage for uncompromising smartphone, tablet and camera performance. Capture 4K Ultra HD and Full HD videos2 and enjoy transfer speeds of up to 95MB/s3 so you can shoot like a pro and still experience world-class responsiveness from your phone. Class 10 and UHS Speed Class 3 (U3)4 ratings mean your videos can meet today&#39;s highest resolution standards.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.634000Z",
+    "active": true,
+    "product_name": "Extreme PRO microSDXC 64GB",
+    "slug": "extreme-pro-micro-sdxc-16gb",
+    "order": 28,
+    "unit_price": "16.990",
+    "quantity": 12,
+    "card_type": "SDXC",
+    "speed": "95",
+    "product_code": "1012",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      44
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>"
+      },
+      "de": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.635000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDHC 16GB",
+    "slug": "extreme-pro-sdhc-16gb",
+    "order": 29,
+    "unit_price": "9.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "95",
+    "product_code": "1013",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      24
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>"
+      },
+      "de": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.636000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDHC 32GB",
+    "slug": "extreme-pro-sdhc-32gb",
+    "order": 30,
+    "unit_price": "13.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "95",
+    "product_code": "1014",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      26
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>"
+      },
+      "de": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.637000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDXC 64GB",
+    "slug": "extreme-pro-sdxc-64gb",
+    "order": 31,
+    "unit_price": "17.990",
+    "quantity": 12,
+    "card_type": "micro SDXC",
+    "speed": "95",
+    "product_code": "1015",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      27
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>"
+      },
+      "de": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.639000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDXC 128GB",
+    "slug": "extreme-pro-sdxc-128gb",
+    "order": 32,
+    "unit_price": "24.990",
+    "quantity": 12,
+    "card_type": "SDXC",
+    "speed": "95",
+    "product_code": "1016",
+    "storage": 128
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      28
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>"
+      },
+      "de": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.640000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDXC 256GB",
+    "slug": "extreme-pro-sdxc-256gb",
+    "order": 33,
+    "unit_price": "36.990",
+    "quantity": 12,
+    "card_type": "SDXC",
+    "speed": "95",
+    "product_code": "1017",
+    "storage": 256
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 95MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      29
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>"
+      },
+      "de": {
+        "description": "<p>With write speeds up to 90 MB/s1 and recording at the UHS Speed Class 3 (U3)2 . Our most powerful, highest capacity UHS-I SD memory card enables your DSLR, advanced digital or HD video camera3 to deliver high resolution, real-world color and stutter-free video. Transfer speeds up to 95 MB/s1 ensure that your data moves fast for a more efficient post-production workflow.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.641000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDXC 512GB",
+    "slug": "extreme-pro-sdxc-512gb",
+    "order": 34,
+    "unit_price": "63.990",
+    "quantity": 12,
+    "card_type": "SDXC",
+    "speed": "95",
+    "product_code": "1018",
+    "storage": 512
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 280MB/s UHS-II Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 280MB/s UHS-II Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      22
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Our fastest SDHC/SDXC memory cards, the SanDisk Extreme PRO SDHC/SDXC UHS-II Memory Cards offer uncompromising read and write speeds professional photographers and videographers require. This memory card delivers exceptional read speeds of up to 280MB/s1 for maximum efficiency and write speeds of up to 250MB/s1 to handle all your camera's advanced modes. Optimized for cameras that support the new UHS-II standard, the card has a UHS Speed Class 3 Rating, the highest available to support 4K, Full HD, and 3D video recording2. And with capacities from 16GB to 64GB3 you\u2019ll never have to worry about running out of space.</p>"
+      },
+      "de": {
+        "description": "<p>Our fastest SDHC/SDXC memory cards, the SanDisk Extreme PRO SDHC/SDXC UHS-II Memory Cards offer uncompromising read and write speeds professional photographers and videographers require. This memory card delivers exceptional read speeds of up to 280MB/s1 for maximum efficiency and write speeds of up to 250MB/s1 to handle all your camera's advanced modes. Optimized for cameras that support the new UHS-II standard, the card has a UHS Speed Class 3 Rating, the highest available to support 4K, Full HD, and 3D video recording2. And with capacities from 16GB to 64GB3 you\u2019ll never have to worry about running out of space.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.642000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDHC II 16GB",
+    "slug": "extreme-pro-sdhc-II-16gb",
+    "order": 35,
+    "unit_price": "11.590",
+    "quantity": 12,
+    "card_type": "SDHC II",
+    "speed": "280",
+    "product_code": "1019",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 280MB/s UHS-II Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 280MB/s UHS-II Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      23
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Our fastest SDHC/SDXC memory cards, the SanDisk Extreme PRO SDHC/SDXC UHS-II Memory Cards offer uncompromising read and write speeds professional photographers and videographers require. This memory card delivers exceptional read speeds of up to 280MB/s1 for maximum efficiency and write speeds of up to 250MB/s1 to handle all your camera's advanced modes. Optimized for cameras that support the new UHS-II standard, the card has a UHS Speed Class 3 Rating, the highest available to support 4K, Full HD, and 3D video recording2. And with capacities from 16GB to 64GB3 you\u2019ll never have to worry about running out of space.</p>"
+      },
+      "de": {
+        "description": "<p>Our fastest SDHC/SDXC memory cards, the SanDisk Extreme PRO SDHC/SDXC UHS-II Memory Cards offer uncompromising read and write speeds professional photographers and videographers require. This memory card delivers exceptional read speeds of up to 280MB/s1 for maximum efficiency and write speeds of up to 250MB/s1 to handle all your camera&#39;s advanced modes. Optimized for cameras that support the new UHS-II standard, the card has a UHS Speed Class 3 Rating, the highest available to support 4K, Full HD, and 3D video recording2. And with capacities from 16GB to 64GB3 you&rsquo;ll never have to worry about running out of space.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.643000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDHC II 32GB",
+    "slug": "extreme-pro-sdhc-II-32gb",
+    "order": 36,
+    "unit_price": "15.590",
+    "quantity": 12,
+    "card_type": "SDHC II",
+    "speed": "280",
+    "product_code": "1020",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 280MB/s UHS-II Card.</p>",
+      "de": "<p>SanDisk Extreme PRO SDHC &amp; SDXC 280MB/s UHS-II Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      25
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Our fastest SDHC/SDXC memory cards, the SanDisk Extreme PRO SDHC/SDXC UHS-II Memory Cards offer uncompromising read and write speeds professional photographers and videographers require. This memory card delivers exceptional read speeds of up to 280MB/s1 for maximum efficiency and write speeds of up to 250MB/s1 to handle all your camera's advanced modes. Optimized for cameras that support the new UHS-II standard, the card has a UHS Speed Class 3 Rating, the highest available to support 4K, Full HD, and 3D video recording2. And with capacities from 16GB to 64GB3 you\u2019ll never have to worry about running out of space.</p>"
+      },
+      "de": {
+        "description": "<p>Our fastest SDHC/SDXC memory cards, the SanDisk Extreme PRO SDHC/SDXC UHS-II Memory Cards offer uncompromising read and write speeds professional photographers and videographers require. This memory card delivers exceptional read speeds of up to 280MB/s1 for maximum efficiency and write speeds of up to 250MB/s1 to handle all your camera&#39;s advanced modes. Optimized for cameras that support the new UHS-II standard, the card has a UHS Speed Class 3 Rating, the highest available to support 4K, Full HD, and 3D video recording2. And with capacities from 16GB to 64GB3 you&rsquo;ll never have to worry about running out of space.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.645000Z",
+    "active": true,
+    "product_name": "Extreme PRO SDXC II 64GB",
+    "slug": "extreme-pro-sdxc-II-64gb",
+    "order": 37,
+    "unit_price": "21.590",
+    "quantity": 12,
+    "card_type": "SDHC II",
+    "speed": "280",
+    "product_code": "1021",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk\u00ae High Endurance Video Monitoring.</p>",
+      "de": "<p>SanDisk\u00ae High Endurance Video Monitoring.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      56
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Built to stand up to hours of Full HD1 video recording, the SanDisk High Endurance Video Monitoring microSDHC and microSDXC Memory Cards provide the capacity, performance and exceptional reliability today\u2019s home security and dash cams demand. They\u2019re also protected against extreme temperatures, shock, water and x-rays2, so you can be confident the evidence is there when you need it. SanDisk High Endurance Video Monitoring Cards are available in capacities of 32GB and 64GB.</p>"
+      },
+      "de": {
+        "description": "<p>Built to stand up to hours of Full HD1 video recording, the SanDisk High Endurance Video Monitoring microSDHC and microSDXC Memory Cards provide the capacity, performance and exceptional reliability today&rsquo;s home security and dash cams demand. They&rsquo;re also protected against extreme temperatures, shock, water and x-rays2, so you can be confident the evidence is there when you need it. SanDisk High Endurance Video Monitoring Cards are available in capacities of 32GB and 64GB.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.646000Z",
+    "active": true,
+    "product_name": "Micro SDHC 32GB",
+    "slug": "micro-sdhc-32gb",
+    "order": 38,
+    "unit_price": "8.390",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "20",
+    "product_code": "1022",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk\u00ae High Endurance Video Monitoring.</p>",
+      "de": "<p>SanDisk\u00ae High Endurance Video Monitoring.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      57
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Built to stand up to hours of Full HD1 video recording, the SanDisk High Endurance Video Monitoring microSDHC and microSDXC Memory Cards provide the capacity, performance and exceptional reliability today\u2019s home security and dash cams demand. They\u2019re also protected against extreme temperatures, shock, water and x-rays2, so you can be confident the evidence is there when you need it. SanDisk High Endurance Video Monitoring Cards are available in capacities of 32GB and 64GB.</p>"
+      },
+      "de": {
+        "description": "<p>Built to stand up to hours of Full HD1 video recording, the SanDisk High Endurance Video Monitoring microSDHC and microSDXC Memory Cards provide the capacity, performance and exceptional reliability today&rsquo;s home security and dash cams demand. They&rsquo;re also protected against extreme temperatures, shock, water and x-rays2, so you can be confident the evidence is there when you need it. SanDisk High Endurance Video Monitoring Cards are available in capacities of 32GB and 64GB.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.647000Z",
+    "active": true,
+    "product_name": "Micro SDHC 64GB",
+    "slug": "micro-sdhc-64gb",
+    "order": 39,
+    "unit_price": "12.890",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "20",
+    "product_code": "1023",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      30
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.649000Z",
+    "active": true,
+    "product_name": "Ultra SDHC 8GB 40Mb/s",
+    "slug": "ultra-hs-sdhc-8gb-40mbps",
+    "order": 40,
+    "unit_price": "7.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "40",
+    "product_code": "1024",
+    "storage": 8
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      31
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.652000Z",
+    "active": true,
+    "product_name": "Ultra SDHC 16GB 40MB/s",
+    "slug": "ultra-hs-sdhc-16gb-40mbps",
+    "order": 41,
+    "unit_price": "11.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "40",
+    "product_code": "1025",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      32
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.654000Z",
+    "active": true,
+    "product_name": "Ultra SDHC 32GB 40Mb/s",
+    "slug": "ultra-hs-sdhc-32gb-40mbps",
+    "order": 42,
+    "unit_price": "16.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "40",
+    "product_code": "1026",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      35
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.656000Z",
+    "active": true,
+    "product_name": "Ultra SDXC 64GB 40Mb/s",
+    "slug": "ultra-hs-sdxc-64gb-40mbps",
+    "order": 43,
+    "unit_price": "23.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "40",
+    "product_code": "1027",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 40MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      36
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 40 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.658000Z",
+    "active": true,
+    "product_name": "Ultra SDXC 128GB 40Mb/s",
+    "slug": "ultra-hs-sdxc-128gb-40mbps",
+    "order": 44,
+    "unit_price": "29.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "40",
+    "product_code": "1028",
+    "storage": 128
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      42
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.669000Z",
+    "active": true,
+    "product_name": "Ultra PLUS SDHC 16GB",
+    "slug": "ultra-plus-sdhc-16gb",
+    "order": 45,
+    "unit_price": "9.650",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "48",
+    "product_code": "1036",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 30MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 30MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      33
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Take better pictures and Full HD videos with your compact to mid-range point and shoot camera or camcorder. With SanDisk Ultra\u00ae UHS-I cards you\u2019ll benefit from faster downloads and better performance to capture and store up to 64GB of high quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 30MB/s to save time moving photos and videos from the card to your computer.</p>"
+      },
+      "de": {
+        "description": "<p>Take better pictures and Full HD videos with your compact to mid-range point and shoot camera or camcorder. With SanDisk Ultra\u00ae UHS-I cards you\u2019ll benefit from faster downloads and better performance to capture and store up to 64GB of high quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 30MB/s to save time moving photos and videos from the card to your computer.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.659000Z",
+    "active": true,
+    "product_name": "Ultra SDHC 16GB 30Mb/s",
+    "slug": "ultra-sdhc-16gb-30mbps",
+    "order": 46,
+    "unit_price": "11.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "30",
+    "product_code": "1029",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      47
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos&mdash;and transfer them quickly to your computer&mdash;using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what&#39;s on the card for easy identification.</p>\r\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.676000Z",
+    "active": true,
+    "product_name": "Ultra PLUS SDXC 128GB",
+    "slug": "ultra-plus-sdxc-128gb",
+    "order": 47,
+    "unit_price": "34.550",
+    "quantity": 12,
+    "card_type": "SDXC",
+    "speed": "48",
+    "product_code": "1040",
+    "storage": 128
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 30MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 30MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      34
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Take better pictures and Full HD videos with your compact to mid-range point and shoot camera or camcorder. With SanDisk Ultra\u00ae UHS-I cards you\u2019ll benefit from faster downloads and better performance to capture and store up to 64GB of high quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 30MB/s to save time moving photos and videos from the card to your computer.</p>"
+      },
+      "de": {
+        "description": "<p>Take better pictures and Full HD videos with your compact to mid-range point and shoot camera or camcorder. With SanDisk Ultra\u00ae UHS-I cards you\u2019ll benefit from faster downloads and better performance to capture and store up to 64GB of high quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 30MB/s to save time moving photos and videos from the card to your computer.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.661000Z",
+    "active": true,
+    "product_name": "Ultra SDHC 32GB 30Mb/s",
+    "slug": "ultra-sdhc-32gb-30mbps",
+    "order": 48,
+    "unit_price": "15.990",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "30",
+    "product_code": "1030",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra microSDHC &amp; microSDXC UHS-I Card.</p>",
+      "de": "<p>SanDisk Ultra microSDHC &amp; microSDXC UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      40
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>"
+      },
+      "de": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.666000Z",
+    "active": true,
+    "product_name": "Ultra PLUS micro SDXC 64GB",
+    "slug": "ultra-sdhc-micro-64gb",
+    "order": 49,
+    "unit_price": "18.790",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "48",
+    "product_code": "1034",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra microSDHC &amp; microSDXC UHS-I Card.</p>",
+      "de": "<p>SanDisk Ultra microSDHC &amp; microSDXC UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      38
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video2 on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>"
+      },
+      "de": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video2 on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.664000Z",
+    "active": true,
+    "product_name": "Ultra PLUS micro SDHC 16GB",
+    "slug": "ultra-sdhc-micro-16gb",
+    "order": 50,
+    "unit_price": "7.890",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "48",
+    "product_code": "1032",
+    "storage": 16
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra microSDHC &amp; microSDXC UHS-I Card.</p>",
+      "de": "<p>SanDisk Ultra microSDHC &amp; microSDXC UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      39
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video2 on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>"
+      },
+      "de": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video2 on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.665000Z",
+    "active": true,
+    "product_name": "Ultra PLUS micro SDHC 32GB",
+    "slug": "ultra-sdhc-micro-32gb",
+    "order": 51,
+    "unit_price": "11.790",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "48",
+    "product_code": "1033",
+    "storage": 32
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra\u00ae PLUS microSDHC\u2122 | microSDXC\u2122 UHS-I.</p>",
+      "de": "<p>SanDisk Ultra\u00ae PLUS microSDHC\u2122 | microSDXC\u2122 UHS-I.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      41
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>"
+      },
+      "de": {
+        "description": "<p>Shoot and save more high-quality photos and Full HD video on your Android smartphone or tablet with SanDisk Ultra PLUS microSDHC\u2122 and microSDXC\u2122 UHS-I Cards. With storage capacities up to 128GB3, you can take more photos and videos without worrying about running out of space.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.668000Z",
+    "active": true,
+    "product_name": "Ultra PLUS micro SDXC 128GB",
+    "slug": "ultra-sdxc-micro-128gb",
+    "order": 52,
+    "unit_price": "26.790",
+    "quantity": 12,
+    "card_type": "micro SDHC",
+    "speed": "48",
+    "product_code": "1035",
+    "storage": 128
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra SDHC &amp; SDXC 30MB/s Card.</p>",
+      "de": "<p>SanDisk Ultra SDHC &amp; SDXC 30MB/s Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      37
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Take better pictures and Full HD videos with your compact to mid-range point and shoot camera or camcorder. With SanDisk Ultra\u00ae UHS-I cards you\u2019ll benefit from faster downloads and better performance to capture and store up to 64GB of high quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 30MB/s to save time moving photos and videos from the card to your computer.</p>"
+      },
+      "de": {
+        "description": "<p>Take better pictures and Full HD videos with your compact to mid-range point and shoot camera or camcorder. With SanDisk Ultra\u00ae UHS-I cards you\u2019ll benefit from faster downloads and better performance to capture and store up to 64GB of high quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 30MB/s to save time moving photos and videos from the card to your computer.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.662000Z",
+    "active": true,
+    "product_name": "Ultra SDXC 64GB 30Mb/s",
+    "slug": "ultra-sdxc-64gb-30mbps",
+    "order": 53,
+    "unit_price": "19.990",
+    "card_type": "SDXC",
+    "quantity": 12,
+    "speed": "30",
+    "product_code": "1031",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      43
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.674000Z",
+    "active": true,
+    "product_name": "Ultra PLUS SDXC 64GB",
+    "slug": "ultra-plus-sdxc-64gb",
+    "order": 54,
+    "unit_price": "26.150",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "48",
+    "product_code": "1039",
+    "storage": 64
+  },
+  {
+    "product_model": "smartcard",
+    "manufacturer": "SanDisk",
+    "caption": {
+      "en": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>",
+      "de": "<p>SanDisk Ultra PLUS SDHC &amp; SDXC 48MB/s UHS-I Card.</p>"
+    },
+    "cms_pages": [
+      "/en/catalog/",
+      "/en/catalog/smartcards/"
+    ],
+    "images": [
+      46
+    ],
+    "multilingual": {
+      "en": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>"
+      },
+      "de": {
+        "description": "<p>Store lots of photos and Full HD videos\u2014and transfer them quickly to your computer\u2014using SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards. Great for compact-to-midrange point-and-shoot digital cameras and camcorders, these memory cards offer read speeds of up to 48 MB/s and are twice as fast as ordinary SDHC cards, allowing you to take pictures and transfer files quickly. SanDisk Ultra PLUS SDXC and SDHC UHS-I Memory Cards come with up to 128 GB of storage and are resistant to water, extreme temperatures, x-rays, and shocks. A label allows you to note what's on the card for easy identification.</p>\n"
+      }
+    },
+    "created_at": "2015-12-02T17:12:41.671000Z",
+    "active": true,
+    "product_name": "Ultra PLUS SDHC 32GB",
+    "slug": "ultra-plus-sdhc-32gb",
+    "order": 55,
+    "unit_price": "12.680",
+    "quantity": 12,
+    "card_type": "SDHC",
+    "speed": "48",
+    "product_code": "1037",
+    "storage": 32
+  }
+]

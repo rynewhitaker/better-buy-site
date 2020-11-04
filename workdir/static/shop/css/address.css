@@ -1,0 +1,30 @@
+.shipping_address-address, .billing_address-address {
+  width: 70%;
+  display: inline-block;
+  padding-right: 0.5rem; }
+  .shipping_address-address .djng-form-control-feedback, .billing_address-address .djng-form-control-feedback {
+    padding-right: 1rem; }
+
+.shipping_address-house_number, .billing_address-house_number {
+  width: 30%;
+  display: inline-block;
+  padding-left: 0.5rem; }
+
+.shipping_address-city, .billing_address-city {
+  width: 65%;
+  display: inline-block;
+  padding-left: 0.5rem; }
+
+.shipping_address-postal_code, .billing_address-postal_code {
+  width: 35%;
+  display: inline-block;
+  padding-right: 0.5rem; }
+  .shipping_address-postal_code .djng-form-control-feedback, .billing_address-postal_code .djng-form-control-feedback {
+    padding-right: 1rem; }
+
+.shipping_address-city, .billing_address-city {
+  width: 65%;
+  display: inline-block;
+  padding-left: 0.5rem; }
+
+/*# sourceMappingURL=address.css.map */
