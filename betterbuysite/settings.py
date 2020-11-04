@@ -599,7 +599,7 @@ ELASTICSEARCH_DSL = {
 # settings for django-shop and its plugins
 
 SHOP_VALUE_ADDED_TAX = Decimal(19)
-SHOP_DEFAULT_CURRENCY = 'EUR'
+SHOP_DEFAULT_CURRENCY = 'USD'
 SHOP_EDITCART_NG_MODEL_OPTIONS = "{updateOn: 'default blur', debounce: {'default': 2500, 'blur': 0}}"
 
 SHOP_CART_MODIFIERS = [
