@@ -4,6 +4,8 @@ This is a project created by Ryne, Collin, Noah, Ryan, and Jafett for Systems An
 
 ## How to run
 
+Install [Python 3.7](https://www.python.org/downloads/release/python-379/) and [Node.js](https://nodejs.org/en/download/)
+Install Python PIP
 
 Install some python applications:
 
