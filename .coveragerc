@@ -1,0 +1,5 @@
+[run]
+include = better-buy-site/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
