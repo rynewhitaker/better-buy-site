@@ -38,13 +38,13 @@ Open Site:
         pipenv shell  (ctrl-c or exit() to exit)
         python manage.py runserver
                 
-Upload Changes
+Upload Changes:
 
         git add .
         git commit -m "message" (add message)
         git push
                 
-Change Branch
+Change Branch:
 
         git checkout branch (branch is name of branch)
                 
