@@ -33,15 +33,18 @@ Navigate to http://localhost:8000/ in your browser
 ## How to use (CMD Prompt)
 
 OPEN SITE
+
         cd better-buy-site
         pipenv shell  (ctrl-c or exit() to exit)
         python manage.py runserver
                 
 UPLOAD CHANGES
+
         git add .
         git commit -m "message" (add message)
         git push
                 
 CHANGE BRANCH
+
         git checkout branch (branch is name of branch)
                 
