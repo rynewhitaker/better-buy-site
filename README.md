@@ -28,7 +28,7 @@ Run the local server:
 
         python manage.py runserver
 
-Navigate to http://localhost:8000/ in your browser
+Navigate to http://localhost:8000/ in your browser.
 
 ## How to use (CMD Prompt)
 
@@ -37,14 +37,13 @@ Open Site:
         cd better-buy-site
         pipenv shell  (ctrl-c or exit() to exit)
         python manage.py runserver
-                
+
 Upload Changes:
 
         git add .
         git commit -m "message" (add message)
         git push
-                
+
 Change Branch:
 
         git checkout branch (branch is name of branch)
-                
