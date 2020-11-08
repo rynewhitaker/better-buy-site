@@ -47,6 +47,11 @@ class PostalShippingModifier(ShippingModifier):
             raise ValidationError("Please provide a valid Shipping ID")
         super().ship_the_goods(delivery)
 
+class DroneDeliveryModifier(ShippingModifier):
+    identifier = 'drone-delivery'
+
+    def get_choice(self):
+        return (self.identifier, _("Drone delivery"))
 
 class StripePaymentModifier(modifiers.StripePaymentModifier):
     commision_percentage = 3
