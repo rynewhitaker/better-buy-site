@@ -3,9 +3,9 @@
 	"file": "catalog-list.css",
 	"sources": [
 		"catalog-list.scss",
-		"../../../../../../../../better-buy-site/node_modules/bootstrap/scss/_functions.scss",
-		"../../../../../../../../better-buy-site/node_modules/bootstrap/scss/_variables.scss",
-		"../../../../../../../../better-buy-site/node_modules/bootstrap/scss/mixins/_breakpoints.scss",
+		"../../../../../../../../Documents/SAD/better-buy-site/node_modules/bootstrap/scss/_functions.scss",
+		"../../../../../../../../Documents/SAD/better-buy-site/node_modules/bootstrap/scss/_variables.scss",
+		"../../../../../../../../Documents/SAD/better-buy-site/node_modules/bootstrap/scss/mixins/_breakpoints.scss",
 		"_product-figure.scss"
 	],
 	"names": [],
