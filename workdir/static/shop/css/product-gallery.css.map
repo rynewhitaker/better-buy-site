@@ -3,8 +3,8 @@
 	"file": "product-gallery.css",
 	"sources": [
 		"product-gallery.scss",
-		"../../../../../../../../Documents/SAD/better-buy-site/node_modules/bootstrap/scss/_functions.scss",
-		"../../../../../../../../Documents/SAD/better-buy-site/node_modules/bootstrap/scss/_variables.scss",
+		"../../../../../../../../better-buy-site/node_modules/bootstrap/scss/_functions.scss",
+		"../../../../../../../../better-buy-site/node_modules/bootstrap/scss/_variables.scss",
 		"_product-figure.scss"
 	],
 	"names": [],
