@@ -606,6 +606,7 @@ SHOP_CART_MODIFIERS = [
     'betterbuysite.modifiers.PrimaryCartModifier',
     'shop.modifiers.taxes.CartExcludedTaxModifier',
     'betterbuysite.modifiers.PostalShippingModifier',
+    'betterbuysite.modifiers.DroneDeliveryModifier',
     'shop_paypal.modifiers.PaymentModifier',
     'betterbuysite.modifiers.StripePaymentModifier',
     'shop.payment.modifiers.PayInAdvanceModifier',
