@@ -21,7 +21,7 @@
 			<li class="nav-item shop-social-icons">{% static_placeholder "Social Icons" %}</li>
 			<li class="mx-auto"></li>
 			{% include "shop/navbar/login-logout.html" with item_class="shop-secondary-menu" %}
-			{% with item_class="shop-secondary-menu" %}{% language_chooser "shop/navbar/language-chooser.html" %}{% endwith %}
+			<!-- {% with item_class="shop-secondary-menu" %}{% language_chooser "shop/navbar/language-chooser.html" %}{% endwith %} -->
 			{% include "shop/navbar/watch-icon.html" with item_class="shop-secondary-menu" %}
 			{% with item_class="shop-secondary-menu" %}
 				{% if current_page.reverse_id == 'shop-cart' or current_page.reverse_id == 'shop-watch-list' %}
