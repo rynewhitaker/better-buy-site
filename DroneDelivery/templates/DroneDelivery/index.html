@@ -1,1 +1,12 @@
-<h1>Hello World</h1>
+
+{% extends "betterbuysite/pages/default1.html" %}
+
+{% block main-content %}
+
+<h1 class="text-center pt-4">Orders Available for Drone Shipping</h1>
+<ul>
+{% for order in drone_orders %}
+    <li class="h2">{{ order.number }}</h1>
+{% endfor %}
+</ul>
+{% endblock main-content %}
