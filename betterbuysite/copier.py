@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-drone_orders = sqlite3.connect("C:/Users/rynew/Documents/better-buy-site/workdir/drone_db.sqlite3")
+drone_orders = sqlite3.connect("workdir/drone_db.sqlite3")
 drone_cursor = drone_orders.cursor()
 
 def createTables():
@@ -21,7 +21,7 @@ def createTables():
 
 createTables()
 
-site_orders = sqlite3.connect("C:/Users/rynew/Documents/better-buy-site/workdir/db.sqlite3")
+site_orders = sqlite3.connect("workdir/db.sqlite3")
 
 site_cursor = site_orders.cursor()
 

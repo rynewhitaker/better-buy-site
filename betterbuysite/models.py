@@ -41,7 +41,7 @@ class OrderItem(BaseOrderItem):
                 product_code=cart_item.product_code)
             self._unit_price = Decimal(variant.unit_price)
             def update():
-                os.system('cmd /c python C:/Users/rynew/Documents/better-buy-site/betterbuysite/copier.py')
+                os.system('cmd /c python betterbuysite/copier.py')
             updateDrones = Timer(1.0, update) # This is VERY janky, do not try this at home.
             updateDrones.start()
         except (KeyError, ObjectDoesNotExist) as e:
