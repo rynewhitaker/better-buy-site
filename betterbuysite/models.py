@@ -22,7 +22,8 @@ from shop.models.defaults.order import Order
 from shop.models.defaults.mapping import ProductPage, ProductImage
 from shop_sendcloud.models.address import BillingAddress, ShippingAddress
 from shop_sendcloud.models.customer import Customer
-
+import os
+from threading import Timer
 
 __all__ = ['Cart', 'CartItem', 'Order', 'Delivery', 'DeliveryItem',
            'BillingAddress', 'ShippingAddress', 'Customer', ]
@@ -39,6 +40,10 @@ class OrderItem(BaseOrderItem):
             variant = cart_item.product.get_product_variant(
                 product_code=cart_item.product_code)
             self._unit_price = Decimal(variant.unit_price)
+            def update():
+                os.system('cmd /c python C:/Users/rynew/Documents/better-buy-site/betterbuysite/copier.py')
+            updateDrones = Timer(1.0, update) # This is VERY janky, do not try this at home.
+            updateDrones.start()
         except (KeyError, ObjectDoesNotExist) as e:
             raise CartItem.DoesNotExist(e)
 
