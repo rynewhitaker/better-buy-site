@@ -24,7 +24,7 @@ i18n_urls = (
     url(r'^', include('cms.urls')),
 )
 urlpatterns = [
-    url(r'^dronedelivery/', include("DroneDelivery.urls")),
+    url(r'^allorders/', include("DroneDelivery.urls")),
     url(r'^robots\.txt$', render_robots),
     url(r'^sitemap\.xml$', sitemap, {'sitemaps': sitemaps}, name='sitemap'),
     url(r'^shop/', include('shop.urls')),
