@@ -1,0 +1,19 @@
+
+{% extends "betterbuysite/pages/default1.html" %}
+
+{% block main-content %}
+<h1 class="text-center mt-4">All Orders</h1>
+
+<div class="row">
+{% for order in drone_orders %}
+    <div class="col-md">
+        <div class="card p-2 m-4 mx-auto" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title"> Order # {{ order.number }}</h5>
+                <a href="/admin/betterbuysite/order" class="card-link">Order Details</a>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
+{% endblock main-content %}

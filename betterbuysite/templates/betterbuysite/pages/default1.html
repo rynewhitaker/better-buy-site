@@ -1,0 +1,28 @@
+{% extends "betterbuysite/pages/base.html" %}
+{% load static cms_tags i18n sekizai_tags sass_tags %}
+
+{% block title %}{% page_attribute "page_title" %}{% endblock %}
+
+{% block head %}
+	{{ block.super }}
+	{% addtoblock "css" %}<link href="{% sass_src 'betterbuysite/css/default.scss' %}" rel="stylesheet" type="text/css" />{% endaddtoblock %}
+{% endblock head %}
+
+{% block header %}
+	{% include "betterbuysite/pages/navbar.html" with navbar_classes="navbar-expand-lg navbar-light bg-light fixed-top" %}
+{% endblock header %}
+
+{% block breadcrumb %}
+	{% placeholder "Breadcrumb" %}
+{% endblock breadcrumb %}
+
+{% block content %}
+{% endblock %}
+
+
+{% block footer %}{% static_placeholder "Static Footer" or %}
+<div class="container">
+	<p class="text-muted">Place sticky footer content here.</p>
+</div>
+{% endstatic_placeholder %}{% endblock footer %}
+

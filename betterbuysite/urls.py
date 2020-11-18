@@ -7,6 +7,8 @@ from django.contrib.sitemaps.views import sitemap
 from django.http import HttpResponse
 from cms.sitemaps import CMSSitemap
 from betterbuysite.sitemap import ProductSitemap
+from django.urls import path, include
+from django.contrib import admin
 
 sitemaps = {'cmspages': CMSSitemap,
             'products': ProductSitemap}
@@ -22,6 +24,7 @@ i18n_urls = (
     url(r'^', include('cms.urls')),
 )
 urlpatterns = [
+    url(r'^allorders/', include("DroneDelivery.urls")),
     url(r'^robots\.txt$', render_robots),
     url(r'^sitemap\.xml$', sitemap, {'sitemaps': sitemaps}, name='sitemap'),
     url(r'^shop/', include('shop.urls')),

@@ -117,6 +117,7 @@ INSTALLED_APPS = [
     'shop_sendcloud',
     'shop',
     'betterbuysite',
+    'DroneDelivery'
 ]
 
 MIDDLEWARE = [
