@@ -1,5 +1,4 @@
 import sqlite3
-import json
 
 drone_orders = sqlite3.connect("workdir/drone_db.sqlite3")
 drone_cursor = drone_orders.cursor() #Cursor used to run sql in drone orders db
